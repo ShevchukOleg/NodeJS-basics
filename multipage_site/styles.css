@@ -1,0 +1,9 @@
+body {
+  background-color: azure;
+}
+
+nav {
+  padding: 5px;
+  border: 2px solid #445566;
+  border-radius: 5px;
+}
